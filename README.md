@@ -1,7 +1,7 @@
 # Next-Gen Web Development Manifesto
 
 ## Vision
-We aim for a web where applications are reliable, secure, and free from preventable errors. Next-gen web development requires a shift to robust, strongly typed languages that eliminate entire classes of bugs, ensuring developers trust their tools and users trust their apps.
+Next-Gen Web Dev aims for reliable, secure web applications free from preventable errors. It requires a shift to robust, strongly typed languages that eliminate entire classes of bugs, ensuring developers trust their tools and users trust their apps.
 
 ## The Problem
 JavaScript’s weak typing, implicit coercions, and runtime errors make it unsuitable for modern web development. TypeScript, while an improvement, falls short of a strong type system. It permits unsafe array access, lacks full null safety, allows implicit conversions, and misses exhaustive type checking. These flaws make it inadequate for reliable server-side (SSR) or client-side (CSR) applications. The web needs languages that guarantee correctness, not just suggest it.

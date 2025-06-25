@@ -22,13 +22,11 @@ We define a strongly typed language by these non-negotiable features, which form
 These principles are not optional—they are the minimum standard for languages that power the next generation of web applications.
 
 ## Our Commitments
-- **Reject JavaScript as a Development Language**: JavaScript is relegated to a compilation target, the output of strongly typed languages compiled to WebAssembly or other safe runtimes.
-- **Move Beyond TypeScript**: TypeScript’s compromises—its unsound types and JavaScript runtime—disqualify it from next-gen web development.
-- **Restrict SSR and CSR to Strongly Typed Languages**: Only languages meeting our strong type system criteria are suitable for building modern web applications, ensuring consistency and reliability across server and client.
-- **Champion Developer Empowerment**: We prioritize tools that catch errors early, reduce debugging, and free developers to focus on creating, not fixing.
-- **Build for Scale and Safety**: From startups to enterprises, our approach eliminates bugs that scale with complexity, delivering apps users can trust.
+- **Mandate Type-Safe Technologies**: We urge leadership to prioritize strongly typed languages for SSR and CSR applications, ensuring robust, bug-free systems that reduce maintenance costs and enhance user trust.
+- **Phase Out JavaScript as a Primary Language**: We commit to transitioning JavaScript to a compilation target (e.g., WebAssembly output), minimizing its risks and aligning with scalable, type-safe architectures.
+- **Reject TypeScript’s Half-Measures**: We advocate retiring TypeScript in favor of languages with sound type systems, mitigating the risks of its unsound types and runtime errors that jeopardize mission-critical applications.
+- **Invest in Developer Productivity and Reliability**: We pledge to adopt tools that catch errors at compile-time, streamline debugging, and boost team efficiency, delivering measurable ROI through faster development cycles and fewer production issues.
+- **Future-Proof Organizational Strategy**: We commit to building web platforms with languages like Rust or Elm, ensuring long-term stability, security, and competitiveness in an evolving digital landscape.
 
 ## Call to Action
-The web is at a crossroads. We, the developers, architects, and visionaries of the next generation, must demand more from our tools. Adopt languages like Rust, Elm, or others that embody our principles. Experiment with WebAssembly to break free from JavaScript’s limitations. Advocate for frameworks and ecosystems that prioritize type safety. Teach, share, and build with strong typing at the core.
-
-Together, we will redefine web development—not as a patchwork of fixes, but as a foundation of certainty. The next-gen web starts with us. Let’s code it right.
+The web stands at a pivotal moment. We, the leaders, strategists, and decision-makers of the next generation, must champion tools that deliver reliability and trust. Mandate languages like Rust or Elm that uphold our principles. Invest in WebAssembly to transcend JavaScript’s flaws. Promote frameworks that prioritize type safety. Lead, innovate, and commit to a web built on certainty. The next-gen web begins with your vision. Let’s build it right.

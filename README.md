@@ -1,5 +1,7 @@
 # Next-Gen Web Development Manifesto
 
+Author: Nathan Tranquilla
+
 ## Vision
 Next-Gen Web Dev aims for reliable, secure web applications free from preventable errors. It requires a shift to robust, strongly typed languages that eliminate entire classes of bugs, ensuring developers trust their tools and users trust their apps.
 

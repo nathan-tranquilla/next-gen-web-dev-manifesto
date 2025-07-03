@@ -1,4 +1,4 @@
-# Core Features of the Phoenix LiveView Pattern
+# Core Features of the LiveView Pattern
 
 | Feature | Description |
 |---------|-------------|
